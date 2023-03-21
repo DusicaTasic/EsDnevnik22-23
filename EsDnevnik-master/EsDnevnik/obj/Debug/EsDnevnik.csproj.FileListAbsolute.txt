@@ -1,0 +1,15 @@
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\bin\Debug\EsDnevnik.exe
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\bin\Debug\EsDnevnik.pdb
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.csproj.AssemblyReference.cache
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.csproj.SuggestedBindingRedirects.cache
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.Main.resources
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.Ocena.resources
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.Osoba.resources
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.Properties.Resources.resources
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.Raspodela.resources
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.csproj.GenerateResource.cache
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.csproj.CoreCompileInputs.cache
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.exe
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.pdb
+D:\Programiranje\C sharp\Aleksa\EsDnevnik-master\EsDnevnik\obj\Debug\EsDnevnik.Sifarnik.resources
